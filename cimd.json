@@ -1,1 +1,16 @@
-{"client_name":"x","redirect_uris":["https://mrx-probe.example/cb"],"grant_types":["authorization_code","refresh_token"],"response_types":["code"],"token_endpoint_auth_method":"none","scope":"openid profile email"}
+{
+  "client_id": "https://raw.githubusercontent.com/youboyo22/mrx-cimd/main/cimd.json",
+  "client_name": "mrx-cimd-probe",
+  "redirect_uris": [
+    "https://mrx-probe.example/cb"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none",
+  "scope": "openid profile email"
+}
