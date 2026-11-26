@@ -1,5 +1,5 @@
 {
-  "client_id": "https://raw.githubusercontent.com/youboyo22/mrx-cimd/main/cimd.json",
+  "client_id": "https://cdn.jsdelivr.net/gh/youboyo22/mrx-cimd@main/cimd.json",
   "client_name": "mrx-cimd-probe",
   "redirect_uris": [
     "https://mrx-probe.example/cb"
